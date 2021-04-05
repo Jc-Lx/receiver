@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "sys.h": "c",
+        "spi2.h": "c",
+        "core_cm3.h": "c",
+        "stm32f10x.h": "c",
+        "delay.h": "c",
+        "ppm.h": "c",
+        "stm32f10x_tim.h": "c",
+        "nrf24l01p.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "pwm.h": "c",
+        "key.h": "c",
+        "iwdg.h": "c"
+    }
+}
